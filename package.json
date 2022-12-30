@@ -7,7 +7,7 @@
     "pkg": "^4.4.7"
   },
   "devDependencies": {
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "should": "^13.2.3"
   },
   "scripts": {
